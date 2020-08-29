@@ -1,3 +1,5 @@
+# CODE4BTV IGNORE
+
 # Logs
 logs
 *.log
@@ -59,3 +61,15 @@ typings/
 
 # next.js build output
 .next
+
+# CODE FOR ANCHORAGE IGNORE
+
+.DS_STORE
+#.env
+node_modules/*
+utils/tmp/*
+!utils/tmp/.gitkeep
+TODO
+.idea
+.vscode/
+
